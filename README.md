@@ -1,3 +1,1 @@
-# testrepo
-
-its a markdown file
+# coding-project-template
